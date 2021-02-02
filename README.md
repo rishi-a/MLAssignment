@@ -1,4 +1,4 @@
-# Assignment -3 
+# Assignment - Linear Regression 
 1. Solve linear regression via gradient descent for ‘d’ dimensional input and N samples using individual parameter updates
 (theta_i's) in a non-vectorised setting.\
   Method should include: \
@@ -55,4 +55,4 @@ Alternatively you can also use the matplotlib.animation library. Edit`q7_plot.py
 `q9_dataset.py` [1 mark]
 
 
-Query Doc: https://docs.google.com/document/d/1gq52RGvw3tMKJAiEfkXxGsrEEj-LF5YLX47ZBt--0MI/edit?usp=sharing
+Query Doc: TBA
